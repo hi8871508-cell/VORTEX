@@ -1,0 +1,6 @@
+{
+  "name": "VORTEX",
+  "description": "Premier competitive CS2 matchmaking network and gaming community platform in Mongolia with ultra-low latency servers, statistics, leaderboards, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
